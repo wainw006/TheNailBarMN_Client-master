@@ -55,6 +55,17 @@ nav a {
   text-transform: uppercase;
   font-size: 14px;
 }
+
+.banner {
+  width: 100%;
+  display: block;
+
+}
+
+.banner > .banner-image {
+  width: 100%
+  display: block;
+}
 h1 {
   font-family: "Merriweather", serif;
   font-size: 32px;
